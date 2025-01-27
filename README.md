@@ -1,6 +1,6 @@
 # Wine-Quality-Prediction-model
 # Objective:
-Develop a machine learning model to predict wine quality (for both red and white wines) using regression techniques. This model will enable wine producers, sellers, and other stakeholders to efficiently and accurately evaluate wine quality.
+Develop a machine learning model to predict wine quality (for both red and white wines) using classification techniques. This model will enable wine producers, sellers, and other stakeholders to efficiently and accurately evaluate wine quality.
 
 # Problem Statement:
 The wine industry, a multibillion-dollar market, heavily relies on quality assessment to determine pricing, consumer preferences, and overall market success. Traditionally, wine quality has been assessed by human experts through sensory analysis. While valuable, this method is inherently subjective, time-intensive, and expensive.An objective, consistent, and scalable approach to predicting wine quality based on its chemical properties can bring transparency and efficiency to the evaluation process. Such a solution benefits producers, sellers, and consumers by ensuring reliable quality assessments while reducing costs and improving decision-making.
